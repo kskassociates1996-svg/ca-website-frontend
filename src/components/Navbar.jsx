@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-        <h2>CA Portal</h2>
+        <h2>KSK Associates</h2>
         <p>Professional Services</p>
       </div>
 
